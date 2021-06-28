@@ -1,0 +1,3 @@
+#pragma once
+#include "Transfer.h"  //包含文件dll文件中的头文件
+#pragma comment(lib,"Dll_Transfer.lib") //把dll文件加进来
