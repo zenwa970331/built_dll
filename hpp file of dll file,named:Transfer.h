@@ -50,4 +50,4 @@ API_SYMBOL void f_Translate(const Point2f& ePointMoveDirection, MyVector& eV);
 API_SYMBOL void f_Translate(sTransfer& eT, MyVector& eV);
 API_SYMBOL void f_PointRotate(const sTransfer& eT, Point2f& ePoint);
 API_SYMBOL void f_Rotate(sTransfer& eT, MyVector& eV);
-API_SYMBOL void f_Transfer(sTransfer& eT, MyVector& eV);
+API_SYMBOL void f_Transfer(sTransfer& eT, MyVector& eV); 
