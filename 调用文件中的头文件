@@ -1,0 +1,12 @@
+#include "TEST_transfer.h"
+
+int main()
+{
+	Point2f p1(1, 2);
+	Point2f p2(3, 4);
+	
+
+	f_PointTranslate(p1, p2);
+	cout << p2 << endl;
+	return 0;
+}
